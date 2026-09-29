@@ -27,4 +27,4 @@ No requiere instalación, dependencias de servidor ni bases de datos.
 *   **Licencia:** MIT.
 ![Captura de pantalla de Derivados Lab](https://raw.githubusercontent.com/franciscoalpuin/Derivados-Lab/main/Imagen%201)
 
-https://github.com/franciscoalpuin/Derivados-Lab/raw/main/Video%20Project%202.mp4 
+[▶️ Ver Video de Demostración](https://github.com/franciscoalpuin/Derivados-Lab/raw/main/Video%20Project%202.mp4)
