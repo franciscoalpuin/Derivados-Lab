@@ -19,7 +19,7 @@ No requiere instalación, dependencias de servidor ni bases de datos.
 1. Descargar el archivo `Derivados_Lab .html`.
 2. Abrirlo en cualquier navegador web moderno (Chrome, Edge, Firefox, Safari).
 3. La primera ejecución requerirá conexión a internet por unos segundos para descargar el motor de Python (aprox. 6 MB). Luego funcionará de manera local.
-
+![Módulo de Volatilidad](https://raw.githubusercontent.com/franciscoalpuin/Derivados-Lab/main/Volatilidad.png)
 ## Tecnologías
 
 *   **Frontend:** HTML5, CSS puro, JavaScript.
