@@ -26,5 +26,5 @@ No requiere instalación, dependencias de servidor ni bases de datos.
 *   **Motor de Cálculo:** Python (mediante Pyodide WebAssembly).
 *   **Licencia:** MIT.
 ![Captura de pantalla de Derivados Lab](https://raw.githubusercontent.com/franciscoalpuin/Derivados-Lab/main/Imagen%201)
-
+<video src="https://github.com/franciscoalpuin/Derivados-Lab/raw/main/Video%20Project%202.mp4" width="100%" controls></video>
 
