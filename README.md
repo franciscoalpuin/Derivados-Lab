@@ -25,3 +25,4 @@ No requiere instalación, dependencias de servidor ni bases de datos.
 *   **Frontend:** HTML5, CSS puro, JavaScript.
 *   **Motor de Cálculo:** Python (mediante Pyodide WebAssembly).
 *   **Licencia:** MIT.
+![Captura de pantalla de Derivados Lab](https://raw.githubusercontent.com/franciscoalpuin/Derivados-Lab/main/Imagen%201)
